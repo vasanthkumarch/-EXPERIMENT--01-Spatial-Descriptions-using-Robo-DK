@@ -104,11 +104,17 @@ In this example we used the following robot joint coordinates [0,0,200,180,0,180
 
 
 
+### COORDINATES OF THE MOVEMENTS: 
 
 
 
 
-### RESULTS AND OUTPUT 
+
+### SIMULATION RESULTS :
+
+
+
+
 
 
 
